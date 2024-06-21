@@ -7,3 +7,5 @@
 3. **Create Header component** with react-bootstrap(Navbar)
 4. **Create Footer Component** With *Container, row and col* react-bootstrap components
 5. **Add Header and Footer to app.js**
+6. **Create screens/HomeScreen.jsx** which includes a list of products
+7. 
