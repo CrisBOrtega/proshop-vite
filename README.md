@@ -1,8 +1,9 @@
-# React + Vite
+# Proshop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Development Steps:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Modify App  component** to display a simple Messaje(and turn it into an *arrow functional component*)
+2. **Install the following dependencies** react-bootstrap, react-icons y bootstrap
+3. **Create Header component** with react-bootstrap(Navbar)
+4. **Create Footer Component** With *Container, row and col* react-bootstrap components
+5. **Add Header and Footer to app.js**
